@@ -1,9 +1,9 @@
-const CACHE_NAME = 'cache-v19'; // Use a static or manually managed version
+const CACHE_NAME = 'cache-v20'; // Use a static or manually managed version
 const RESOURCES_TO_PRECACHE = [
-    'estilos/normalize.css?v19',
-    'estilos/styles.css?v19',
-    'estilos/mediaQueries.css?v19',
-    'javascript/script.js?v19',
+    'estilos/normalize.css?v20',
+    'estilos/styles.css?v20',
+    'estilos/mediaQueries.css?v20',
+    'javascript/script.js?v20',
     // Add more resources here if needed
 ];
 
